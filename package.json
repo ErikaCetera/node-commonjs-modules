@@ -1,0 +1,16 @@
+{
+  "name": "commonjs-modules",
+  "version": "1.0.0",
+  "description": "\"node commons js modules\"",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"node-commonjs-modules\""
+  },
+  "author": "\"Erika Cetera\"",
+  "license": "ISC"
+}
